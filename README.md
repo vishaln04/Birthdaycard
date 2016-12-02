@@ -1,2 +1,2 @@
-# diwali-wish
-a simple design for wish diwali
+# Birthday-wish
+a simple design for Birthday wish card
